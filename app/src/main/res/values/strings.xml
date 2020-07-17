@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">Nacionalinė krepšinio lyga</string>
+    <string name="pradinis_text">Pradinis</string>
+    <string name="komandos_text">Komandos</string>
+    <string name="tvarkarastis_text">Tvarkaraštis</string>
+    <string name="rezultatai_text">Rezultatai</string>
+    <string name="lentele_text">Turnyro Lentelė</string>
+    <string name="gp_text">GP – žaistos rungtynės;</string>
+    <string name="losses_text">L – pralaimėjimai;</string>
+    <string name="reitingavimas_text">* dviem ar daugiau komandoms surinkus po lygiai pergalių, pirmiausia žiūrimos tarpusavio rungtynių baigtys ir taškų santykiai.</string>
+    <string name="wins_text">W - pergalės;</string>
+    <string name="team_name_text">Komandos Pavadinimas</string>
+    <string name="p_text">P              Komandos Pavadinimas         GP        W          L     </string>
+    <string name="naujienos_text">Naujienos</string>
+
+    <string-array name="naujienos">
+        <item>A.Marčiulionis lieka Vilniaus „Perle“</item>
+        <item>„Neptūno-Akvaservis“ krepšininkai nuo vasaros pradžios pluša stovykloje</item>
+        <item>„Hoptrans 3×3“ turnyre „Lietkabelio“ garbę gins NKL spindėję žaidėjai</item>
+        <item>„Ryto“ sistemoje – penktas naujokas: prisijungė M. Pacevičius</item>
+        <item>MVP tapęs Ignas Razutis: „Turbūt geriausias sezonas, kokį esu sužaidęs“</item>
+        <item>NKL naudingiausias sezono krepšininkas – Ignas Razutis</item>
+        <item>NKL geriausių sezono žaidėjų simbolinis penketukas</item>
+        <item>Geriausiu sezono teisėju išrinktas Šarūnas Gabrilavičius</item>
+        <item>Geriausiu sezono treneriu tapo debiutantas Kęstutis Mačijauskas</item>
+        <item>Labiausiai patobulėjusiu krepšininku išrinktas Augustas Marčiulionis</item>
+        <item>Geriausiai besiginančiu krepšininku pripažintas Ignas Lukošius</item>
+        <item>Nutraukiamas „VIKINGLOTTO-NKL“ čempionatas, „Sūduva-Mantinga“ skelbiama nugalėtoja</item>
+        <item>„Neptūno-Akvaservis“ krepšininkai nuo vasaros pradžios pluša stovykloje</item>
+        <item>„Hoptrans 3×3“ turnyre „Lietkabelio“ garbę gins NKL spindėję žaidėjai</item>
+        <item>„Ryto“ sistemoje – penktas naujokas: prisijungė M. Pacevičius</item>
+    </string-array>
+
+    <string-array name="komandos">
+        <item>Gargždų Gargždai</item>
+        <item>Jonavos Jonava</item>
+        <item>Joniškio Delikatesas</item>
+        <item>Kauno Žalgiris-2</item>
+        <item>Klaipėdos Neptūnas-Akvaservis</item>
+        <item>Marijampolės Sudūva-Mantinga</item>
+        <item>Mažeikių Ereliai</item>
+        <item>Molėtų Ežerūnas</item>
+        <item>Palangos Kuršiai</item>
+        <item>Šakių Vytis</item>
+        <item>Šilalės Lūšis</item>
+        <item>Šilutės Šilutė</item>
+        <item>Tauragės krepšinio klubas</item>
+        <item>Telšių Telšiai</item>
+        <item>Vilniaus Perlas</item>
+    </string-array>
+
+    <string-array name="treneriai">
+        <item>Erikas Kubilius</item>
+        <item>Nerijus Zabarauskas</item>
+        <item>Robertas Giedraitis</item>
+        <item>Arvydas Gronskis</item>
+        <item>Audrius Mineikis</item>
+        <item>Povilas Šakinis</item>
+        <item>Aloyzas Rudys</item>
+        <item>Marius Pociukonis</item>
+        <item>Paulius Barkus</item>
+        <item>Erikas Kučiauskas</item>
+        <item>Rolandas Razgaitis</item>
+        <item>Kęstutis Mačijauskas</item>
+        <item>Edvardas Žemgulis</item>
+        <item>Rytis Vaišvila</item>
+        <item>Edvinas Justa</item>
+    </string-array>
+
+    <string-array name="miestai">
+        <item>Gargždai</item>
+        <item>Jonava</item>
+        <item>Joniškis</item>
+        <item>Kaunas</item>
+        <item>Klaipėda</item>
+        <item>Marijampolė</item>
+        <item>Mažeikiai</item>
+        <item>Molėtai</item>
+        <item>Palanga</item>
+        <item>Šakiai</item>
+        <item>Šilalė</item>
+        <item>Šilutė</item>
+        <item>Tauragė</item>
+        <item>Telšiai</item>
+        <item>Vilnius</item>
+    </string-array>
+
+    <string-array name="datos">
+        <item>2020 10 03</item>
+        <item>2020 10 04</item>
+        <item>2020 10 05</item>
+        <item>2020 10 06</item>
+        <item>2020 10 07</item>
+        <item>2020 10 08</item>
+        <item>2020 10 09</item>
+        <item>2020 10 10</item>
+        <item>2020 10 11</item>
+        <item>2020 10 12</item>
+        <item>2020 10 13</item>
+        <item>2020 10 14</item>
+        <item>2020 10 15</item>
+        <item>2020 10 16</item>
+        <item>2020 10 17</item>
+    </string-array>
+
+    <string-array name="laikas">
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>24:00</item>
+    </string-array>
+
+    <string-array name="rezultatas">
+        <item>89:70</item>
+        <item>102:97</item>
+        <item>77:80</item>
+        <item>81:91</item>
+        <item>66:88</item>
+        <item>83:72</item>
+        <item>96:78</item>
+        <item>83:71</item>
+        <item>97:102</item>
+        <item>94:74</item>
+        <item>91:93</item>
+        <item>82:90</item>
+        <item>70:90</item>
+        <item>69:66</item>
+        <item>83:92</item>
+    </string-array>
+
+    <string-array name="pozicija">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+    </string-array>
+
+    <string-array name="rungtyniuskaicius">
+        <item>20</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="pergales">
+        <item>20</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="pralaimejimai">
+        <item>20</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </string-array>
+
+    <integer-array name="images">
+        <item>@drawable/gargzdai</item>
+        <item>@drawable/jonava</item>
+        <item>@drawable/joniskis</item>
+        <item>@drawable/kaunas</item>
+        <item>@drawable/klaipeda</item>
+        <item>@drawable/marijampole</item>
+        <item>@drawable/mazeikiai</item>
+        <item>@drawable/moletai</item>
+        <item>@drawable/palanga</item>
+        <item>@drawable/sakiai</item>
+        <item>@drawable/silale</item>
+        <item>@drawable/silute</item>
+        <item>@drawable/taurage</item>
+        <item>@drawable/telsiai</item>
+        <item>@drawable/vilnius</item>
+    </integer-array>
+
+</resources>
